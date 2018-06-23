@@ -1,1 +1,3 @@
-alert(12345);
+function foo(){
+    alert(12345);
+}
