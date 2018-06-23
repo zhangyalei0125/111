@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhangyalei0125/111/issues"
   },
-  "homepage": "https://github.com/zhangyalei0125/111#readme"
+  "homepage": "https://github.com/zhangyalei0125/111#readme",
+  "devDependencies": {
+    "slick": "^1.12.2"
+  }
 }
